@@ -16,6 +16,10 @@
     WEB: https://www.youtube.com/watch?v=o36yTfGDmZ0
     GIT: https://github.com/marcel-dempers/docker-development-youtube-series
 
+- Venkat Nagappan (justmeandopensource)
+    WEB: https://www.youtube.com/watch?v=ch9YlQZ4xTc
+    GIT: https://github.com/justmeandopensource/kubernetes
+
 ## Services
 
 ## Volumes
